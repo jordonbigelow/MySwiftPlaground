@@ -1,2 +1,2 @@
 # MySwiftPlaground
-This is simply a repo of notes for my own purposes so that I can learn how to apply concepts I am learning in code
+**This is a repo for myself mostly. I was given advice from a developer that told me to code myself examples of things I don't currently understand and add notes, so that I can come back and remind myself of some foundational knowledge in Swift development**
