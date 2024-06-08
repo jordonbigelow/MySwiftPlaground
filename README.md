@@ -5,8 +5,7 @@
 - To initialize a date instance, simply call it's initializer
 `import Foundation
  
- let currentDate = Date()
-`
+ let currentDate = Date()`
 - This will encapsulate (insert definition here) a single point in time. This point in time is independent of any locale or time zone
 - This Date structure provides methods for comparing dates, calculating the time interval between two dates, and creating a new date from a time interval relatvie to another date.
 - Use Date values in conjunction with DateFormatter instances to create localized representations of dates and times and with Calendar instances to perform calndar aritmetic.
